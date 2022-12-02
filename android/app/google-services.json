@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210541384300",
+    "project_id": "superstoreapp-47df8",
+    "storage_bucket": "superstoreapp-47df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210541384300:android:47b281ebc72cd8d4913e49",
+        "android_client_info": {
+          "package_name": "com.example.superstore_supplier_side"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210541384300-0su2d6a49d1tl7oub0a7ovtkrq6dqrrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChE3cLbmEhwM_vcwcrAL3wHLQI3sA_vdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210541384300-0su2d6a49d1tl7oub0a7ovtkrq6dqrrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
